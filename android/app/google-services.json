@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "592460446587",
+    "firebase_url": "https://yellow-road-rangers.firebaseio.com",
+    "project_id": "yellow-road-rangers",
+    "storage_bucket": "yellow-road-rangers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592460446587:android:7b414eee07f05da98b1bde",
+        "android_client_info": {
+          "package_name": "com.rudelabs.yb_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592460446587-p0qcouv3sd1730simiif55g2v3c9b6br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPrgF2Wj7GhBhJn8dHbG_h008LouAiyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592460446587-p0qcouv3sd1730simiif55g2v3c9b6br.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592460446587-c1hg0f89p68mibq7o0q2em09at922tqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rudelabs.yb-controller"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592460446587:android:91d75ac7810cb4368b1bde",
+        "android_client_info": {
+          "package_name": "com.rudelabs.yrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592460446587-66jurtsovoiev6oncik9aqfs2afjf5oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rudelabs.yrr",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "592460446587-ifh17cudnk8ddopd01lhopapp727u37v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rudelabs.yrr",
+            "certificate_hash": "40974f4a9aed985152245ad522c5521f20545ab3"
+          }
+        },
+        {
+          "client_id": "592460446587-p0qcouv3sd1730simiif55g2v3c9b6br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPrgF2Wj7GhBhJn8dHbG_h008LouAiyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592460446587-p0qcouv3sd1730simiif55g2v3c9b6br.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592460446587-c1hg0f89p68mibq7o0q2em09at922tqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rudelabs.yb-controller"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
